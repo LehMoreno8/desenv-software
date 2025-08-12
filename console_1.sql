@@ -59,3 +59,6 @@ add column data_aniversario date;
 
 insert into departamento (nome) values ('Recursos Humanos')
 insert into departamento (nome) values ('TI')
+
+
+drop table cliente;
